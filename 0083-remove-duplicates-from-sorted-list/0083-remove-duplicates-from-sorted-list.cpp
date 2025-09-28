@@ -11,26 +11,15 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        //단일 연결리스트에서는 remove를 위해 prev 필요
-        ListNode* dummy = new ListNode(-101, head);
-        ListNode* cur = head; 
-        ListNode* prev = dummy; 
-
-        //prev와 cur이 같으면 remove
-        while (cur != nullptr){
-            if (cur->val == prev->val){
-                prev->next = cur->next; 
+        ListNode* cur = head;
+        while (cur && cur->next) {
+            if (cur->val == cur->next->val) {
+                // 중복이면 skip 
+                cur->next = cur->next->next;
+            } else {
+                cur = cur->next; 
             }
-            else{
-                prev = cur; 
-            }
-            cur = cur->next; 
         }
-
-        ListNode* newHead = dummy->next; 
-        delete dummy; 
-        return newHead; 
+        return head;
     }
-
-
 };
