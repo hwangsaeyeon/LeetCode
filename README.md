@@ -53,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0933-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -68,5 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0933-increasing-order-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
