@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/hwangsaeyeon/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/hwangsaeyeon/LeetCode/tree/master/0224-basic-calculator) |
 | [0606-construct-string-from-binary-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 ## Tree
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/hwangsaeyeon/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/hwangsaeyeon/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
