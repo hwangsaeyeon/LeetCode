@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hwangsaeyeon/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0099-recover-binary-search-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/hwangsaeyeon/LeetCode/tree/master/0933-increasing-order-search-tree) |
@@ -113,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hwangsaeyeon/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/hwangsaeyeon/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
