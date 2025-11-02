@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/hwangsaeyeon/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/hwangsaeyeon/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/hwangsaeyeon/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/hwangsaeyeon/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/hwangsaeyeon/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/hwangsaeyeon/LeetCode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/hwangsaeyeon/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/hwangsaeyeon/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
