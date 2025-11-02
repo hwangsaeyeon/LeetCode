@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hwangsaeyeon/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/hwangsaeyeon/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/hwangsaeyeon/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/hwangsaeyeon/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hwangsaeyeon/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/hwangsaeyeon/LeetCode/tree/master/0224-basic-calculator) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hwangsaeyeon/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
